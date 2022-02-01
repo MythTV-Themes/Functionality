@@ -230,6 +230,11 @@
             <area>15,15,1219,45</area>
             <align>left,top</align>
         </textarea>
+        <textarea name="recordedtime">
+            <font>small</font>
+            <area>15,75,1534,45</area>
+            <align>left,bottom</align>
+        </textarea>
         <textarea name="description">
             <font>small</font>
             <area>15,75,1534,45</area>
